@@ -1,2 +1,3 @@
-echo "v1.0.0.0"
+#!/bin/sh
+echo "App Version: $APP_VERSION"
 exit
